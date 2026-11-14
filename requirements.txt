@@ -1,0 +1,9 @@
+ollama==0.5.3
+ollama-haystack==5.1.0
+pandas==2.3.2
+numpy==2.3.2
+tqdm==4.67.1
+pydantic==2.11.7
+haystack-ai==2.17.1
+haystack-experimental==0.13.0
+scikit-learn==1.7.1
