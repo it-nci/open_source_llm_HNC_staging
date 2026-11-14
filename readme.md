@@ -24,9 +24,3 @@ The study tested various open-source models across different scales, as well as 
   * GPT-5-mini
 
 ---
-
-## 📊 Results
-* Model performance
-![model](img/Figure1.png)
-* Confusion matrix
-![con_matrix](img/Figure3.png)
