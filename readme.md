@@ -4,6 +4,10 @@ This research project evaluates the capability of open-source Large Language Mod
 
 ---
 
+## Data pipeline
+![pipeline](img/pic1.png)
+---
+
 ## 🛠️ Models Evaluated
 
 The study tested various open-source models across different scales, as well as a proprietary commercial model:
